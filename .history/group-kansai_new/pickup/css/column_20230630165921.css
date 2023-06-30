@@ -196,7 +196,9 @@
     padding-top: 8px;
     padding-bottom: 4px;
 }
-
+.column07__box .subtitle{
+    font-size: 1.6rem;
+}
 .column07__box .flex{
     padding-top: 25px;
     display: flex;
